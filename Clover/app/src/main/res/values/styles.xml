@@ -304,6 +304,41 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <item name="dropdown_dark_pressed_color">#6633b5e5</item>
     </style>
 
+
+    <style name="Chan.Theme.Progress" parent="Chan.Theme.Yotsuba">
+        <item name="colorAccent">#999999</item>
+
+        <item name="backcolor">#480b54</item>
+        <item name="backcolor_secondary">#5a2365</item>
+
+        <item name="android:textColor">#9bc4c4</item>
+        <item name="text_color_primary">#8bb0b0</item>
+        <item name="text_color_secondary">#a5c9c9</item>
+        <item name="text_color_hint">#808080</item>
+        <item name="text_color_reveal_spoiler">#eaeaea</item>
+        <item name="post_name_color">#008387</item>
+        <item name="post_subject_color">#00f7ff</item>
+        <item name="post_details_color">#008089</item>
+        <item name="post_quote_color">#f700ff</item>
+        <item name="post_highlight_quote_color">#2aa198</item>
+        <item name="post_inline_quote_color">#37a600</item>
+        <item name="post_link_color">#008387</item>
+        <item name="post_spoiler_color">#000000</item>
+        <item name="post_capcode_color">#ff00ddff</item>
+        <item name="post_last_seen_color">#ff00ddff</item>
+
+        <item name="post_id_background_light">#6633b5e5</item>
+        <item name="post_saved_reply_color">#300738</item>
+        <item name="post_highlighted_color">#300738</item>
+        <item name="post_selected_color">#300738</item>
+
+        <item name="divider_color">#912c91</item>
+        <item name="divider_split_color">#912c91</item>
+
+        <item name="dropdown_dark_color">#250942</item>
+        <item name="dropdown_dark_pressed_color">#503a67</item>
+    </style>
+
     <!-- For FloatingMenu -->
     <style name="ToolbarDropDownListViewStyle" parent="Widget.AppCompat.ListView.DropDown">
         <item name="android:background">#ffffffff</item>
